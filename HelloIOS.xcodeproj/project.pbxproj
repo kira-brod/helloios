@@ -58,6 +58,11 @@
 			path = HelloIOSUITests;
 			sourceTree = "<group>";
 		};
+		D5AED0142D9E1EF1001DB408 /* screenshots */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = screenshots;
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +93,7 @@
 		D5AECFD72D9E0CF0001DB408 = {
 			isa = PBXGroup;
 			children = (
+				D5AED0142D9E1EF1001DB408 /* screenshots */,
 				D5AECFE22D9E0CF0001DB408 /* HelloIOS */,
 				D5AECFF92D9E0CF2001DB408 /* HelloIOSTests */,
 				D5AED0032D9E0CF2001DB408 /* HelloIOSUITests */,
@@ -122,6 +128,7 @@
 			);
 			fileSystemSynchronizedGroups = (
 				D5AECFE22D9E0CF0001DB408 /* HelloIOS */,
+				D5AED0142D9E1EF1001DB408 /* screenshots */,
 			);
 			name = HelloIOS;
 			packageProductDependencies = (
